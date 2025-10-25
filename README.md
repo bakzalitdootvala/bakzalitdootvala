@@ -1,4 +1,4 @@
-## # Yo, I’m Nick! 🧠
+## # Yo, I’m Nik! 🧠
 
 I’m an AI Engineer and ML enthusiast diving headfirst into the wild world of NLP, LLMs, and Python. 🐍 Just started sharing my projects publicly. Ex-closet coder, now building cool stuff 😜. Whether it’s crafting clever prompts or hacking together RAG pipelines, I’m all about turning data into magic. Let’s make some AI noise! 🚀
 
